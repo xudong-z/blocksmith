@@ -65,6 +65,6 @@ print(checksum_address)
 # TBeZRGzvr9GpNY4MYYXxhbZbB8XU64NkFu
 ```
 
-# Recommend JavaScript implementation
-`http://github.com/laalaguer/VeChain-Address/`
+# JavaScript implementation
+`http://github.com/laalaguer/VeChain-Address/` recommended in `https://ethbook.abyteahead.com/ch2/account.html#id2`
 
