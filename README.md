@@ -1,6 +1,6 @@
 # blocksmith
-The goal of this library is to generate private keys and create Bitcoin/Ethereum/Tron wallet addresses from them.
-\n Disclaimer: added Tron Wallet generator on top of `https://github.com/Destiner/blocksmith`
+The goal of this library is to generate private keys and create Bitcoin/Ethereum/Tron wallet addresses from them. 
+Disclaimer: added Tron Wallet generator on top of `https://github.com/Destiner/blocksmith`
 
 
 # Installation
