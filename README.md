@@ -63,5 +63,8 @@ print(address)
 checksum_address = blocksmith.TronWallet.checksum_address(address)
 print(checksum_address)
 # TBeZRGzvr9GpNY4MYYXxhbZbB8XU64NkFu
-
 ```
+
+# Recommend JavaScript implementation
+`http://github.com/laalaguer/VeChain-Address/`
+
